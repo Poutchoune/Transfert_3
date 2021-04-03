@@ -673,3 +673,272 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.03-13.17.20:652][310]LogEditorViewport: Clicking Background
 [2021.04.03-13.17.22:320][510]SourceControl: Source control is disabled
 [2021.04.03-13.17.22:320][510]LogSlate: Window 'Source Control Login' being destroyed
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] running to pull  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] running to push  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] pull to running  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] push to running  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] idle to pull  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] pull to idle  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] push to idle  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] running to levier  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] idle to levier  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.10:503][843]LogBlueprint: Warning: [Compiler fordy_animBP] levier to idle  will never be taken, please connect something to  Can Enter Transition
+[2021.04.03-13.34.12:186][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.03-13.34.13:887][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.03-13.34.14:324][  7]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Fordy/Fordy.Fordy
+	Asset Name: /Game/Fordy/fordy_animBP.fordy_animBP
+	Asset Name: /Game/Fordy/Fordy_PhysicsAsset.Fordy_PhysicsAsset
+	Asset Name: /Game/Fordy/Fordy_Skeleton.Fordy_Skeleton
+	Asset Name: /Game/Fordy/walkBP.walkBP
+[2021.04.03-13.34.15:034][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.03-13.34.15:043][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.15:050][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.15:058][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.15:065][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.15:072][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.03-13.34.15:079][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.03-13.34.16:493][169]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.03-13.34.16:495][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:496][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:496][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:496][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:497][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:497][169]LoadErrors: Failed to load /Game/Fordy/Fordy_Skeleton.Fordy_Skeleton Referenced by on_wall
+[2021.04.03-13.34.16:497][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/on_wall.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:498][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:499][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:499][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:499][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:499][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:499][169]LoadErrors: Failed to load /Game/Fordy/Fordy_Skeleton.Fordy_Skeleton Referenced by shooting
+[2021.04.03-13.34.16:500][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:501][169]LoadErrors: Failed to load /Game/Fordy/Fordy_Skeleton.Fordy_Skeleton Referenced by shooting_idle
+[2021.04.03-13.34.16:502][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/shooting_idle.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:503][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:503][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:503][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:504][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:504][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:504][169]LoadErrors: Failed to load /Game/Fordy/Fordy_Skeleton.Fordy_Skeleton Referenced by walking
+[2021.04.03-13.34.16:504][169]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/anim/walking.uasset' failed to load '/Game/Fordy/Fordy_Skeleton': Can't find file.
+[2021.04.03-13.34.16:571][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.03-13.34.17:732][169]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.03-13.34.18:279][169]LogUObjectGlobals: Force Deleting 54 Package(s):
+	Asset Name: /Game/Fordy/material/Material_052.Material_052
+	Asset Name: /Game/Fordy/material/eyeTextureNew2.eyeTextureNew2
+	Asset Name: /Game/Fordy/material/sacoche_006.sacoche_006
+	Asset Name: /Game/Fordy/material/sourcil_dweep_006.sourcil_dweep_006
+	Asset Name: /Game/Fordy/textures/cFabric03_basenor.cFabric03_basenor
+	Asset Name: /Game/Fordy/materials/ceinture.ceinture
+	Asset Name: /Game/Fordy/textures/human_hair_dirty.human_hair_dirty
+	Asset Name: /Game/Fordy/materials/cheveux_dweep.cheveux_dweep
+	Asset Name: /Game/Fordy/textures/cuire_albedo_baked.cuire_albedo_baked
+	Asset Name: /Game/Fordy/textures/cuire_roughness_baked.cuire_roughness_baked
+[2021.04.03-13.34.18:423][169]LogMaterial: Display: Missing cached shader map for material Material_052, compiling. 
+[2021.04.03-13.34.18:424][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\material\Material_052.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:424][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:425][169]LogMaterial: Display: Missing cached shader map for material Material_052, compiling. 
+[2021.04.03-13.34.18:425][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\material\Material_052.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:425][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:427][169]LogMaterial: Display: Missing cached shader map for material ceinture, compiling. 
+[2021.04.03-13.34.18:428][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\ceinture.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:428][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:429][169]LogMaterial: Display: Missing cached shader map for material cheveux_dweep, compiling. 
+[2021.04.03-13.34.18:429][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\cheveux_dweep.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:429][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:430][169]LogMaterial: Display: Missing cached shader map for material MAT_spring_boots, compiling. 
+[2021.04.03-13.34.18:431][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\MAT_spring_boots.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:431][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:431][169]LogMaterial: Display: Missing cached shader map for material MAT_spring_boots, compiling. 
+[2021.04.03-13.34.18:432][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\MAT_spring_boots.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:432][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:432][169]LogMaterial: Display: Missing cached shader map for material MAT_spring_boots, compiling. 
+[2021.04.03-13.34.18:433][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\MAT_spring_boots.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:433][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:434][169]LogMaterial: Display: Missing cached shader map for material MAT_spring_boots, compiling. 
+[2021.04.03-13.34.18:434][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\MAT_spring_boots.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:434][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:435][169]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.04.03-13.34.18:436][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_001.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:436][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:436][169]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.04.03-13.34.18:437][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_001.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:437][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:438][169]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.04.03-13.34.18:438][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_001.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:438][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:440][169]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2021.04.03-13.34.18:440][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_009.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:440][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:441][169]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2021.04.03-13.34.18:442][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_009.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:442][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:443][169]LogMaterial: Display: Missing cached shader map for material backpack_metal_1, compiling. 
+[2021.04.03-13.34.18:444][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\backpack_metal_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:444][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:445][169]LogMaterial: Display: Missing cached shader map for material backpack_metal_1, compiling. 
+[2021.04.03-13.34.18:445][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\backpack_metal_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:445][169]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.03-13.34.18:449][169]LogMaterial: Display: Missing cached shader map for material voyant, compiling. 
+[2021.04.03-13.34.18:449][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\voyant.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:449][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:450][169]LogMaterial: Display: Missing cached shader map for material voyant, compiling. 
+[2021.04.03-13.34.18:450][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\voyant.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:450][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:451][169]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2021.04.03-13.34.18:452][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_011.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:452][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.18:453][169]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2021.04.03-13.34.18:453][169]LogMaterial: Warning: C:\Users\Tom\Desktop\Fordy\test_multi\test_2\transfert\Content\Fordy\materials\Material_011.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.03-13.34.18:453][169]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.03-13.34.21:298][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.03-13.34.21:309][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.03-13.34.21:316][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.03-13.34.21:325][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:333][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.03-13.34.21:342][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.03-13.34.21:356][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:366][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:376][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:387][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:396][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.03-13.34.21:405][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.03-13.34.21:414][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:422][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.03-13.34.21:430][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.21:437][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:445][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.04.03-13.34.21:453][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.03-13.34.21:460][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.21:469][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.03-13.34.21:477][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:485][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:505][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:513][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.03-13.34.21:522][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:529][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.03-13.34.21:536][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.03-13.34.21:545][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.03-13.34.21:552][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:559][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.21:567][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:575][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.03-13.34.21:583][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.03-13.34.21:591][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.03-13.34.21:598][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:605][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.03-13.34.21:613][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.03-13.34.21:621][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:628][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.03-13.34.21:636][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.03-13.34.21:644][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.03-13.34.21:652][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.03-13.34.21:659][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.03-13.34.21:666][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.21:674][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.21:681][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.03-13.34.21:689][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:700][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.03-13.34.21:708][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.03-13.34.21:716][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.03-13.34.21:724][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.34.21:732][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.04.03-13.34.21:739][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.03-13.34.21:746][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.03-13.34.21:755][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.03-13.34.21:763][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.03-13.34.30:644][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:644][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:644][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:644][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:645][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:645][177]LoadErrors: Failed to load /Game/Fordy/anim/running.running Referenced by Fordy_Anim_running
+[2021.04.03-13.34.30:645][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_running.uasset' failed to load '/Game/Fordy/anim/running': Can't find file.
+[2021.04.03-13.34.30:646][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:646][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:646][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:646][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:646][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:646][177]LoadErrors: Failed to load /Game/Fordy/anim/idle.idle Referenced by Fordy_Anim_idle
+[2021.04.03-13.34.30:647][177]LogLinker: Warning: While loading '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/Fordy/Fordy_Anim_idle.uasset' failed to load '/Game/Fordy/anim/idle': Can't find file.
+[2021.04.03-13.34.30:653][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.03-13.34.31:886][177]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.03-13.34.31:920][177]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.03-13.34.32:601][177]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.681 s
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: 
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: Cannot remove redirection from /Game/Fordy/Fordy_Anim_running.Fordy_Anim_running, it was not registered
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: Stack: 
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d698bf88 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d65a0691 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.03-13.34.32:601][177]LogOutputDevice: Error: [Callstack] 0x00007ff90655d25e UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8869aa2cc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8869a9c9f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff886169cf8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8863f9dee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff886406dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d53b207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d53cb27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d5212dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d52969cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d527f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d5272392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e17f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e05c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e1a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e017d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95e28e858 USER32.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95e28e299 USER32.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e1b9c9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d52a0d5d UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d523bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff88649f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8869a94dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff881f1d838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff88202ed59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff882028272 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff881f87f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff881f26847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d53b207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d53cb27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d5212dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d52969cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d527f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff8d5272392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e17f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e05c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e1a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e017d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95e28e858 USER32.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95e28e299 USER32.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff913e1bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff7403868c4 UE4Editor.exe!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff74039ba7c UE4Editor.exe!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff74039bb5a UE4Editor.exe!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff7403ae31d UE4Editor.exe!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff7403b145a UE4Editor.exe!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95e037034 KERNEL32.DLL!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: [Callstack] 0x00007ff95fd42651 ntdll.dll!UnknownFunction []
+[2021.04.03-13.34.32:602][177]LogOutputDevice: Error: 
+[2021.04.03-13.34.32:610][177]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.03-13.34.34:404][177]LogStats:                    SendNewReport -  1.794 s
+[2021.04.03-13.34.34:404][177]LogStats:             FDebug::EnsureFailed -  2.484 s
+[2021.04.03-13.34.34:478][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.03-13.34.34:485][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.03-13.34.34:501][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.04.03-13.34.34:509][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.03-13.40.18:207][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.03-13.40.18:216][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.03-13.40.18:223][170]LogSavePackage: Moving '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Saved/NewMapB471F40E4A72BA825AC83683510002CA.tmp' to '../../../../../../Users/Tom/Desktop/Fordy/test_multi/test_2/transfert/Content/NewMap.umap'
+[2021.04.03-13.40.18:244][170]AssetCheck: New page: Asset Save: NewMap
+[2021.04.03-13.40.18:244][170]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
